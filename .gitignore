@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Jekyll template
+_site/
+.sass-cache/
+.jekyll-metadata
+2015-06-25-initial-setup.md
+2015-06-24-intro-layout-tutorial.md
+2015-06-22-web-app-mode.md
+2015-06-20-blog-tutorial.md
+2015-06-19-writing-posts.md
+2015-06-12-timeline-tutorial.md
+2015-06-11-social-buttons-tutorial.md
+2015-06-10-contact-tutorial.md
+.idea/leahlang4d2.github.io.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
